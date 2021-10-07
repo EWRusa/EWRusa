@@ -6,4 +6,4 @@ Summary of Qualifications:
 
 Programming Languages: Java, C, Python
 Operating Systems: Mac OS X, Windows, Linux (CentOS, Ubuntu)
-Knowledge of data structures, sorting algorithms, and GitHub
+Knowledge of data structures, sorting algorithms, computer organization, and GitHub
