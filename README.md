@@ -4,6 +4,6 @@ Dean List student with experience in customer service and troubleshooting roles.
 
 Summary of Qualifications:
 
-Programming Languages: Java, C, Python<br />
-Operating Systems: Mac OS X, Windows, Linux (CentOS, Ubuntu)<br />
-Knowledge of data structures, sorting algorithms, computer organization, and GitHub<br />
+Programming Languages: Java, C, C++, Python<br />
+Operating Systems: Mac OS X, Windows, Linux (CentOS, Ubuntu, Alma)<br />
+Knowledge of discrete math, data structures, sorting algorithms, computer organization, software devopment, and GitHub<br />
