@@ -11,5 +11,5 @@ Summary of Qualifications:
  product development teams.
 * Troubleshooting and creative problem solving skills developed by solving unforeseen issues found when 
  developing applications.
-* Knowledge of object oriented programming (OOP), full-stack programming, data structures, sorting 
- algorithms, traversal algorithms, discrete math.
+* Knowledge of object oriented programming (OOP), full-stack development, data structures, sorting 
+ algorithms, traversal algorithms, discrete math, linear algebra, calculus.
