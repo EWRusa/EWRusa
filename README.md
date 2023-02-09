@@ -1,15 +1,8 @@
-Colorado State University junior, majoring in computer science with a concentration in Artificial Intelligence and Machine Learning.
+Colorado State University junior, majoring in Computer Science with a concentration in Artificial Intelligence and Machine Learning.
 
-Dean List student with experience in customer service, troubleshooting, full-stack, and team-oriented roles and positions.
-
+Dean List student with experience in full-stack software development and algorithms.
 
 Summary of Qualifications:
-* Languages: Java, SpringBoot, C, C++, Python, JavaScript, React, HTML, CSS
-* Operating Systems: Windows, Mac OS X, Linus (CentOS, Ubuntu)
-* Developed personal projects and class coursework programs using the AGILE methodology.
-* Communication, teamwork, and leadership skills developed by working closely stocking associates and 
- product development teams.
-* Troubleshooting and creative problem solving skills developed by solving unforeseen issues found when 
- developing applications.
-* Knowledge of object oriented programming (OOP), full-stack development, data structures, sorting 
- algorithms, traversal algorithms, discrete math, linear algebra, calculus.
+* Languages: Java, JavaScript, C, C++, Python, SQL, HTML, CSS
+* Operating Systems: Windows, Mac OS X, Linux (CentOS, Ubuntu)
+* Knowledge of: Algorithms, Foundations of Machine Learning, Software Engineering, Object-Oriented Programming, Operating Systems,  Programming with C++, Data Structures, Calculus, Linear Algebra
