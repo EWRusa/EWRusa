@@ -11,7 +11,7 @@ I also have interests in bouldering, antique vehicle restoration, math, and I lo
 Summary of Qualifications
 ======
 Languages:
-* Java, JavaScript, ReactJS, Kotlin, C, C++, MySQL, NoSQL, Azure SQL, HTML, CSS, Python, MatPlotLib, NumPy, Pandas
+* Java, JavaScript, ReactJS, Kotlin, MySQL, NoSQL, Azure SQL, HTML, CSS, Python, MatPlotLib, NumPy, Pandas
 
 Operating Systems:
 * Windows, Mac OS X, Linux (CentOS, Ubuntu)
