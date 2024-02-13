@@ -11,10 +11,16 @@ I also have interests in bouldering, antique vehicle restoration, math, and I lo
 Summary of Qualifications
 ======
 Languages:
-* Java, JavaScript, ReactJS, Kotlin, MySQL, NoSQL, Azure SQL, HTML, CSS, Python, MatPlotLib, NumPy, Pandas
-
+* Java, Kotlin, Python, Javascript, SQL, NoSQL, HTML, CSS
+Libraries:
+* Spring, Pandas, Numpy, ReactJs, Spark, Matplotlib
+Web Dev Tools:
+* Jenkins, Git, Github, Google Cloud Platform, Cloud Foundry, NodeJS
+Frameworks:
+* Spring, ReactJS, Spark
+Databases:
+* MongoDB, MySQL, Azure SQL
 Operating Systems:
 * Windows, Mac OS X, Linux (CentOS, Ubuntu)
-
 Knowledge of:
-* Machine Learning, Artificial Intelligence, Software Engineering, Software Development, Algorithms, Object Oriented Programming, Advanced Calculus, Linear Algebra
+* Machine Learning, Artificial Intelligence, Software Engineering, Software Development, Object Oriented Programming, Data Structures & Algorithms, Advanced Calculus, Linear Algebra, Big Data
