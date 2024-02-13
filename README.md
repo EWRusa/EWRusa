@@ -12,15 +12,21 @@ Summary of Qualifications
 ======
 Languages:
 * Java, Kotlin, Python, Javascript, SQL, NoSQL, HTML, CSS
+
 Libraries:
 * Spring, Pandas, Numpy, ReactJs, Spark, Matplotlib
+
 Web Dev Tools:
 * Jenkins, Git, Github, Google Cloud Platform, Cloud Foundry, NodeJS
+
 Frameworks:
 * Spring, ReactJS, Spark
+
 Databases:
 * MongoDB, MySQL, Azure SQL
+
 Operating Systems:
 * Windows, Mac OS X, Linux (CentOS, Ubuntu)
+
 Knowledge of:
 * Machine Learning, Artificial Intelligence, Software Engineering, Software Development, Object Oriented Programming, Data Structures & Algorithms, Advanced Calculus, Linear Algebra, Big Data
